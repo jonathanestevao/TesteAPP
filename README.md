@@ -64,7 +64,7 @@ else:
 
 ## Autor e contato
 
-**Jonathan Estevão**
+**Jonathan Estevão Lopes da Silva**
 
 **GitHub:** [GitHub](https://github.com/jonathanestevao) \
 **LinkedIn:** [LinkedIn](http://www.linkedin.com/in/jonathanestevao)\
